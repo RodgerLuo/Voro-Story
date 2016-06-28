@@ -1,0 +1,26 @@
+//Screen size
+SCREEN_WIDTH=200
+SCREEN_HEIGHT=800
+
+//Voronoi Container
+CUBE_WIDTH=800
+CUBE_HEIGHT=800
+CUBE_DEPTH=800
+
+//Images in the data folder
+IMAGE_NUM=4
+IMAGE_TYPE=jpg
+
+//The number of images showing on the screen
+MESH_NUM=20
+
+//How much do you want the voronoi shape to be separated. 
+//The larger, the more decentralized
+RANGE=200
+
+//Graphic details
+BG_COLOR=200
+TRANSPARENCY=200
+STROKE_COLOR=255
+STROKE_WEIGHT=1
+
